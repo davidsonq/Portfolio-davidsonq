@@ -47,7 +47,7 @@ export const Home = (): JSX.Element => {
               <Text color="grey4">Hello, my name is {userData.nameUser}</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-            I{" "}
+              I{" "}
               <Text as="span" type="heading1" color="brand1">
                 love
               </Text>{" "}
@@ -58,8 +58,12 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+              Full Stack Developer passionate about technology and learning, I
+              found my professional calling in programming and see myself doing
+              this for the rest of my life. I have big goals and I am always
+              seeking to evolve my knowledge, because I believe that technology
+              has the power to transform the world, and I want to contribute to
+              that future through my passion for programming.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">

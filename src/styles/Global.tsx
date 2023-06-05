@@ -100,9 +100,9 @@ export const GlobalStyle = ({ children }: GlobalStyleProps): JSX.Element => {
       brand1: "#9E7D31",
       brand2: "#6B5521",
 
-      grey0: "#0A0A0B",
-      grey1: "#121214",
-      grey2: "#868E96",
+      grey0: "#31539E",
+      grey1: "#091F52",
+      grey2: "#e4e9ed",
       grey3: "#E9ECEF",
       grey4: "#F8F9FA",
       grey5: "#F8F9FA",
